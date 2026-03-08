@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "Nodo.h"
+#include "nodo.h"
 
 struct Nodo {
     int dato;
